@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2018-06-09 14:15+0000\n"
 "PO-Revision-Date: 2018-06-09 14:17+0000\n"
 "Last-Translator: info@roiweb.co <info@roiweb.co>\n"
-"Language-Team: French (France)\n"
+"Language-Team: \n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,6 @@ msgstr ""
 #: woobizz-hook-7.php:24
 msgid "Add content after shipping form on checkout page"
 msgstr ""
-"Ajouter du contenu après le formulaire d'expédition sur la page de paiement"
 
 #. URI of the plugin
 #. Author URI of the plugin
